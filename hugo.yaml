@@ -1,0 +1,20 @@
+baseURL: https://santing.net
+languageCode: en-us
+title: 'René Santing - Devops, Programming & Security'
+theme: 'PaperMod'
+params:
+    profileMode:
+        enabled: true
+        title: "René Santing"
+        subtitle: "Devops, Programming & Security"
+        imageUrl: "profile.jpg"
+        imageTitle: "me"
+        imageWidth: 120
+        imageHeight: 120
+        buttons:
+            - name: About Me
+              url: "/about"
+            - name: Projects
+              url: "/projects"
+            - name: LinkedIn
+              url: "https://www.linkedin.com/in/rene-santing-b0a16398/"
