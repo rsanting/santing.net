@@ -18,3 +18,4 @@ params:
               url: "/projects"
             - name: LinkedIn
               url: "https://www.linkedin.com/in/rene-santing-b0a16398/"
+    colorMode: "dark"
